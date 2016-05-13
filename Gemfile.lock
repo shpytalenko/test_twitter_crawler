@@ -1,0 +1,17 @@
+GEM
+  remote: http://gemcutter.org/
+  specs:
+    awesome_print (1.6.1)
+    json (1.8.3)
+    nokogiri (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  json
+  nokogiri
+
+BUNDLED WITH
+   1.12.1
